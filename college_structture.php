@@ -619,7 +619,7 @@
                 </table>
             </section>
             <!-- /.content -->
-        </div>āāāāā
+        </div>
         <!-- /.content-wrapper -->
         <!-- <footer class="main-footer">
     <strong>Copyright &copy; 2016-2019 <a href="http://brainwareuniversity.ac.in/">Brainware University</a>.</strong> All rights
@@ -633,7 +633,7 @@
     <script src="assets/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="assets/bower_components/jquery-slimscroll/jquery.slimscroll.min.js"></script>
     <script src="assets/bower_components/fastclick/lib/fastclick.js"></script>
-    <script src="assets/dist/js/adminlte.min.js"></script>āāāāā
+    <script src="assets/dist/js/adminlte.min.js"></script>
 
     <!-- Plugin for editor-->
     <script language="JavaScript" type="text/javascript" src="openwysiwyg/scripts/wysiwyg.js"></script>
